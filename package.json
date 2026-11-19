@@ -1,0 +1,8 @@
+{
+  "name": "spring-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser-based spring motion workbench that exports CSS easing.",
+  "scripts": { "build": "node build.mjs", "test": "node --test" }
+}
